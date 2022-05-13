@@ -14,6 +14,7 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Pages/Home';
 import ProductSingle from './components/Pages/ProductSingle';
+
 import Shop from './components/Pages/Shop';
 
 const App = () => {
