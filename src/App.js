@@ -46,7 +46,7 @@ const App = () => {
   }, [cats, tags, products]);
 
 
-  // check    
+  // check    teat
 
   return (
   <>
